@@ -1,5 +1,5 @@
-#ifndef UNIT_TESTING_01_BASIC_PERSON_H
-#define UNIT_TESTING_01_BASIC_PERSON_H
+#ifndef UNIT_TESTING_01_CATCH2_PERSON_H
+#define UNIT_TESTING_01_CATCH2_PERSON_H
 
 #include <string>
 #include <ostream>
